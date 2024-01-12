@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Project creation and initial push" />
+    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Creation of 2023 problems folder">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/CCC_2023/J1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2023/J1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CCC_2023/J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CCC_2023/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC_2023/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2arzkRckiDjRprBE2KAbI58lJXq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +38,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705091746194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing main branch">
+      <created>1705091924814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705091924814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creation of 2023 problems folder">
+      <created>1705092133797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705092133797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project creation and initial push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project creation and initial push" />
+    <MESSAGE value="testing main branch" />
+    <MESSAGE value="Creation of 2023 problems folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of 2023 problems folder" />
   </component>
 </project>
