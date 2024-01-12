@@ -20,7 +20,6 @@ The output will consist of a single integer F, representing the final score.
 Sample Input 1
 5
 2
-
 Output for Sample Input 1
 730
 
@@ -32,7 +31,6 @@ score is 250 − 20 + 500 = 730.
 Sample Input 2
 0
 10
-
 Output for Sample Input 2
 -100
 
