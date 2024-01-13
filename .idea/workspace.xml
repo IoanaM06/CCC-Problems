@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Completion of J1 2023">
-      <change afterPath="$PROJECT_DIR$/Data/2022/J1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCC_2022/J1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCC_2022/Main.java" afterDir="false" />
+    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Completion of J1 2022">
+      <change afterPath="$PROJECT_DIR$/Data/CCC_2021/J1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2021/J1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2021/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CCC_2023/J1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC_2023/J1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/2022/J1" beforeDir="false" afterPath="$PROJECT_DIR$/Data/CCC_2022/J1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,6 +42,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CCC_2021.Main" />
+      <module name="CCC Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CCC_2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705095101093</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completion of J1 2022">
+      <created>1705103490473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705103490473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +125,7 @@
     <MESSAGE value="testing main branch" />
     <MESSAGE value="Creation of 2023 problems folder" />
     <MESSAGE value="Completion of J1 2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completion of J1 2023" />
+    <MESSAGE value="Completion of J1 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completion of J1 2022" />
   </component>
 </project>
