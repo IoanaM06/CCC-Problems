@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Completion of J1 2019">
-      <change afterPath="$PROJECT_DIR$/Data/CCC_2018/J1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCC_2018/J1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCC_2018/Main.java" afterDir="false" />
+    <list default="true" id="0f9b12d5-143b-451c-be27-7f8b4e8f308e" name="Changes" comment="Completion of J1 2018">
+      <change afterPath="$PROJECT_DIR$/Data/CCC_2017/J1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2017/J1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCC_2023/S1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705108095929</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completion of J1 2018">
+      <created>1705329522296</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705329522297</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +199,7 @@
     <MESSAGE value="Completion of J1 2021" />
     <MESSAGE value="Completion of J1 2020" />
     <MESSAGE value="Completion of J1 2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completion of J1 2019" />
+    <MESSAGE value="Completion of J1 2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completion of J1 2018" />
   </component>
 </project>
